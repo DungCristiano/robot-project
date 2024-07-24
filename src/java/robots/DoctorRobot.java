@@ -1,3 +1,5 @@
+package robots;
+
 public class DoctorRobot implements MedicalRobot {
     @Override
     public void care() {
