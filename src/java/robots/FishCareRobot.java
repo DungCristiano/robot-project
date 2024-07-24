@@ -1,3 +1,5 @@
+package robots;
+
 public class FishCareRobot implements FarmingRobot {
     @Override
     public void harvest() {
